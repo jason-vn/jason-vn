@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yeets-n
 - 👀 I’m interested in user interaction, network infrastructure
-- 🌱 I’m currently learning CCNA, Python
+- 🌱 I’m currently learning CCNA, Python, Web design languages
 - 💞️ I’m looking to collaborate on ?
 - 📫 How to reach me jason.n72099@yahoo.com
 
