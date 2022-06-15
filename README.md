@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @yeets-n
+## 👋 Hi, I’m Jason Nguyen
 ###### - 👀 I’m interested in user interaction, web development
 ###### - 🌱 I’m currently learning JavaScript, CSS, Vue.js
 ###### - 💞️ I’m looking to collaborate on web design
