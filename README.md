@@ -1,8 +1,7 @@
 ## 👋 Hi, i’m Jason Nguyen!
 ###### - 👀 I’m interested in web development, user interaction
-###### - 🌱 I’m currently learning JavaScript 
+###### - 🌱 I’m currently working on improving my JavaScript skills 
 ###### - 💪 Most proficient in Java
-###### - 💞️ I’m looking to collaborate on web design
 ###### - 📫 How to reach me -> jasonvndev@gmail.com
 
 
